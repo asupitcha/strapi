@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_component_sub_components",
+  "info": {
+    "displayName": "Sub Component",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
